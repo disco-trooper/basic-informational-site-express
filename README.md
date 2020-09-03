@@ -1,6 +1,5 @@
 <h1 align="center">basic-informational-site-express</h1>
-<p>[![Run on Repl.it](https://repl.it/badge/github/disco-trooper/basic-informational-site-express)](https://repl.it/github/disco-trooper/basic-informational-site-express)
-</p>
+[![Run on Repl.it](https://repl.it/badge/github/disco-trooper/basic-informational-site-express)](https://repl.it/github/disco-trooper/basic-informational-site-express)
 
 > A simple webpage made for practice purposes of Express
 
