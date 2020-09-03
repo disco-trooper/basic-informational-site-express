@@ -1,0 +1,32 @@
+{
+  "name": "basic-informational-site-express",
+  "version": "1.0.0",
+  "description": "A simple webpage made for practice purposes of Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disco-trooper/basic-informational-site-express.git"
+  },
+  "author": "disco-trooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disco-trooper/basic-informational-site-express/issues"
+  },
+  "homepage": "https://github.com/disco-trooper/basic-informational-site-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.1"
+  }
+}
