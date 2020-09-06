@@ -4,7 +4,7 @@
 
 > A simple webpage made for practice purposes of Express
 
-### [![Run on Repl.it](https://repl.it/badge/github/disco-trooper/basic-informational-site-express)](https://repl.it/@discocoder/basic-informational-site)
+### [![Run on Repl.it](https://repl.it/badge/github/disco-trooper/basic-informational-site-express)](https://repl.it/@discocoder/basic-informational-site-express)
 
 ## Author
 
